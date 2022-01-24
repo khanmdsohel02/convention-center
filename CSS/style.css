@@ -5,6 +5,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+p {
+    text-align: justify;
+}
+
 .margin-right {
     margin-right: -10%;
 }
