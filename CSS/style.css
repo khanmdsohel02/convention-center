@@ -29,6 +29,10 @@ h1 h2 {
     margin-top: 10%;
 }
 
-.margin{
+.footer-bg-color {
+    background-color: black;
+}
+
+.margin {
     margin-top: 128px;
 }
