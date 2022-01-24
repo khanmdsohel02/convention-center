@@ -5,6 +5,17 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.margin-right {
+    margin-right: -10%;
+}
+
+.nav-height {
+    height: 80px;
+}
+
+.banner {
+    height: calc(80px-100vh);
+}
 
 
 h1 h2 {
@@ -22,6 +33,19 @@ h1 h2 {
     border: none;
 
 
+}
+
+.card-title-wight {
+    font-weight: 600;
+
+}
+
+.para-color {
+    color: #747474;
+}
+
+.title-color {
+    color: #747474;
 }
 
 .bg-height {
