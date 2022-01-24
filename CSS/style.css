@@ -5,10 +5,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.card-body {
-    width: 300px;
-    height: 387px;
-}
+
 
 h1 h2 {
     font-family: 'Roboto', sans-serif;
@@ -17,4 +14,21 @@ h1 h2 {
 .Border-radius {
     border-radius: 26px;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+
+.accordion-button {
+    font-weight: 600;
+    font-size: 22px;
+    border: none;
+
+
+}
+
+.bg-height {
+    height: 280px;
+    margin-top: 10%;
+}
+
+.margin{
+    margin-top: 128px;
 }
