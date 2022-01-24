@@ -17,6 +17,17 @@ body {
     height: calc(80px-100vh);
 }
 
+.text-colored {
+    color: azure;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title-wight {
+    font-weight: 600;
+}
 
 h1 h2 {
     font-family: 'Roboto', sans-serif;
@@ -59,4 +70,14 @@ h1 h2 {
 
 .margin {
     margin-top: 128px;
+}
+
+#About-Us {
+    margin-top: 5%;
+}
+
+#Our-Package,
+#Asked,
+#Testimonial {
+    margin-top: 7%;
 }
